@@ -1,6 +1,6 @@
-# CMCord
+# CMCord 
 
-> Ứng dụng nhắn tin và giao tiếp trực tuyến lấy cảm hứng từ Discord.
+> Ứng dụng (MVP) nhắn tin và giao tiếp trực tuyến lấy cảm hứng từ Discord.
 
 ## Giới thiệu
 
