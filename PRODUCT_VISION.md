@@ -17,27 +17,27 @@
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  FOR (Dành cho)                                             │
-│  Sinh viên đại học đang làm việc nhóm trong các môn học    │
+│  Sinh viên đại học đang làm việc nhóm trong các môn học     │
 │                                                             │
 │  WHO (Người có nhu cầu)                                     │
-│  Cần một nơi giao tiếp và cộng tác học tập có tổ chức,     │
-│  tách biệt khỏi mạng xã hội cá nhân                        │
+│  Cần một nơi giao tiếp và cộng tác học tập có tổ chức,      │
+│  tách biệt khỏi mạng xã hội cá nhân                         │
 │                                                             │
 │  THE PRODUCT (Sản phẩm)                                     │
-│  CMCord – Ứng dụng chat theo server và channel             │
+│  CMCord – Ứng dụng chat theo server và channel              │
 │                                                             │
 │  THAT (Giải quyết)                                          │
-│  Cho phép tạo server riêng theo lớp/nhóm, tổ chức hội      │
-│  thoại theo kênh chủ đề, chia sẻ tài liệu và @mention      │
+│  Cho phép tạo server riêng theo lớp/nhóm, tổ chức hội       │
+│  thoại theo kênh chủ đề, chia sẻ tài liệu và @mention       │
 │  thành viên                                                 │
 │                                                             │
 │  UNLIKE (Khác với)                                          │
 │  Facebook Messenger, Zalo – các nền tảng không được thiết   │
-│  kế cho cộng tác học thuật, thiếu phân cấp kênh và lưu     │
-│  trữ tài liệu                                               │
+│  kế cho cộng tác học thuật                                  │
+│                                                             │
 │                                                             │
 │  OUR PRODUCT (Điểm khác biệt)                               │
-│  Tổ chức kênh theo chủ đề học thuật, giao diện quen thuộc  │
+│  Tổ chức kênh theo chủ đề học thuật, giao diện quen thuộc   │
 │  như Discord nhưng tập trung vào trải nghiệm học tập        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -112,4 +112,3 @@
 ---
 
 *Tài liệu thuộc Tuần 3 – Dự án CMCord*  
-*Cập nhật lần cuối: Tuần 3*
