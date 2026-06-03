@@ -17,7 +17,7 @@
 
 ### Scenario 1 – Sinh viên tham gia lần đầu và khám phá ứng dụng
 
-**Actor:** Nguyễn Văn An – sinh viên mới được mời vào server lớp.  
+**Actor:** Nguyễn Bê An – sinh viên mới được mời vào server lớp.  
 **Tiền điều kiện:** An nhận được link mời từ trưởng nhóm qua Messenger.  
 **Luồng chính:**
 1. An mở link, được chuyển đến trang đăng ký CMCord.
@@ -33,8 +33,8 @@
 
 ### Scenario 2 – Trưởng nhóm tổ chức server cho dự án môn học
 
-**Actor:** Trần Thị Bích – trưởng nhóm dự án.  
-**Tiền điều kiện:** Bích đã có tài khoản CMCord.  
+**Actor:** Trần Đăng Việt – trưởng nhóm dự án.  
+**Tiền điều kiện:** Việt đã có tài khoản CMCord.  
 **Luồng chính:**
 1. Bích tạo server mới tên "Nhóm 5 – Dự án PM".
 2. Bích tạo các channel: #thong-bao, #thiet-ke, #code, #bao-cao, #chung.
@@ -307,4 +307,3 @@
 ---
 
 *Tài liệu thuộc Tuần 3 – Dự án CMCord*  
-*Cập nhật lần cuối: Tuần 3*
