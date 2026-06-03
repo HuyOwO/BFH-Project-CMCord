@@ -29,3 +29,7 @@ Phiên bản MVP tập trung vào các chức năng cốt lõi:
 - [x] File sharing
 - [ ] Voice chat
 - [ ] Chatbot
+
+## Cài đặt & Chạy
+npm run install:all
+npm run dev
