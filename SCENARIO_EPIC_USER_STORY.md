@@ -36,11 +36,11 @@
 **Actor:** Trần Đăng Việt – trưởng nhóm dự án.  
 **Tiền điều kiện:** Việt đã có tài khoản CMCord.  
 **Luồng chính:**
-1. Bích tạo server mới tên "Nhóm 5 – Dự án PM".
-2. Bích tạo các channel: #thong-bao, #thiet-ke, #code, #bao-cao, #chung.
-3. Bích mời từng thành viên qua link hoặc email.
-4. Bích ghim (pin) tin nhắn quan trọng về deadline dự án.
-5. Bích @mention toàn nhóm khi có thông báo khẩn.
+1. Việt tạo server mới tên "Nhóm 5 – Dự án PM".
+2. Việt tạo các channel: #thong-bao, #thiet-ke, #code, #bao-cao, #chung.
+3. Việt mời từng thành viên qua link hoặc email.
+4. Việt ghim (pin) tin nhắn quan trọng về deadline dự án.
+5. Việt @mention toàn nhóm khi có thông báo khẩn.
 
 **Kết quả kỳ vọng:** Server được tổ chức gọn gàng, các thành viên nắm rõ cấu trúc nhóm.
 
