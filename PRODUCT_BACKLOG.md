@@ -278,4 +278,3 @@ Post-MVP Roadmap
 ---
 
 *Tài liệu thuộc Tuần 3 – Dự án CMCord*  
-*Cập nhật lần cuối: Tuần 3*
